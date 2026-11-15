@@ -1,4 +1,14 @@
 # IPv4 Streams
+CCTV-10科教,http://8.134.101.151/cctvnews.php?id=cctv10
+CCTV-12社会与法,http://8.134.101.151/cctvnews.php?id=cctv12
+CCTV-13新闻,http://8.134.101.151/cctvnews.php?id=cctv13
+CCTV-17农业农村,http://8.134.101.151/cctvnews.php?id=cctv17
+CCTV-1综合,http://8.134.101.151/cctvnews.php?id=cctv1
+CCTV-2财经,http://8.134.101.151/cctvnews.php?id=cctv2
+CCTV-4K超高清,http://8.134.101.151/cctvnews.php?id=cctv4k
+CCTV-4中文国际,http://8.134.101.151/cctvnews.php?id=cctv4
+CCTV-7国防军事,http://8.134.101.151/cctvnews.php?id=cctv7
+CCTV-9纪录,http://8.134.101.151/cctvnews.php?id=cctv9
 CCTV1,http://8.138.7.223/so/tool/live/20261111220552_00008.m3u8
 CCTV1,http://8.138.7.223/so/tool/live/20261104220500_00002.m3u8
 CCTV10,http://8.138.7.223/so/tool/live/20261113203515_00008.m3u8
